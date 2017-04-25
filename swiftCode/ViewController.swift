@@ -22,7 +22,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+//hello
     @IBAction func btnClick(){
         let myAlert = UIAlertController(title: "初学Swite，请见谅", message: "怎么才能学好swift", preferredStyle: .alert);
 //        let cancelAction = UIAlertAction(title: "取消", style: .Cancel, handler: {action in [
